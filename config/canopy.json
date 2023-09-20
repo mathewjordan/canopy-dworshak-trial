@@ -1,10 +1,18 @@
 {
   "prod": {
     "collection": "https://cdm17254.contentdm.oclc.org/iiif/info/dworshak/manifest.json",
+    "featured": [
+      "https://cdm17254.contentdm.oclc.org/iiif/info/dworshak/560/manifest.json",
+      "https://cdm17254.contentdm.oclc.org/iiif/info/dworshak/511/manifest.json"
+    ],
     "metadata": ["Date", "Format Original"]
   },
   "dev": {
     "collection": "https://cdm17254.contentdm.oclc.org/iiif/info/dworshak/manifest.json",
+    "featured": [
+      "https://cdm17254.contentdm.oclc.org/iiif/info/dworshak/560/manifest.json",
+      "https://cdm17254.contentdm.oclc.org/iiif/info/dworshak/511/manifest.json"
+    ],
     "metadata": ["Date", "Format Original"]
   }
 }
