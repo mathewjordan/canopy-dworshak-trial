@@ -1,0 +1,10 @@
+{
+  "prod": {
+    "collection": "https://cdm17254.contentdm.oclc.org/iiif/info/dworshak/manifest.json",
+    "metadata": ["Date", "Format Original"]
+  },
+  "dev": {
+    "collection": "https://cdm17254.contentdm.oclc.org/iiif/info/dworshak/manifest.json",
+    "metadata": ["Date", "Format Original"]
+  }
+}
